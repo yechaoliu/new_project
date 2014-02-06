@@ -1,0 +1,1 @@
+select * from factdata limit 10;
