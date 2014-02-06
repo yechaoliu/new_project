@@ -1,0 +1,3 @@
+select * from factdata limit 10;
+
+select count(*) from taxonomy;
